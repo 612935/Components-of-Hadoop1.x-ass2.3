@@ -1,1 +1,0 @@
-# Components-of-Hadoop1.x-ass2.3
